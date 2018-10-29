@@ -1,2 +1,2 @@
 # harj3
-Harjoitus 3
+Old school task for Puppet course
